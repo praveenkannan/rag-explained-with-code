@@ -1,0 +1,173 @@
+{
+    "catalogs": [
+        {
+            "name": "Office Ergonomics",
+            "products": [
+                {
+                    "id": "prod1", 
+                    "name": "ErgoChair", 
+                    "description": "An ergonomic chair with lumbar support designed specifically for those suffering from chronic back pain. Features adjustable height, armrests, and recline tension.",
+                    "category": "Ergonomic Furniture",
+                    "tags": ["back pain", "office chair", "ergonomic"],
+                    "price": 499.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 50,
+                        "shipping_time": "3-5 business days"
+                    }
+                },
+                {
+                    "id": "prod2", 
+                    "name": "SmartDesk", 
+                    "description": "A height-adjustable smart desk with memory presets, anti-collision detection, and integrated cable management for a clean workspace. Can be controlled via smartphone app.",
+                    "category": "Smart Office Furniture",
+                    "tags": ["adjustable height", "smart desk", "workspace"],
+                    "price": 799.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 25,
+                        "shipping_time": "5-7 business days"
+                    }
+                },
+                {
+                    "id": "prod5",
+                    "name": "ErgoMouse",
+                    "description": "An ergonomic vertical mouse that reduces wrist strain and promotes a more natural hand position. Features adjustable DPI and wireless connectivity.",
+                    "category": "Ergonomic Accessories",
+                    "tags": ["ergonomic", "mouse", "wrist health"],
+                    "price": 79.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 100,
+                        "shipping_time": "2-4 business days"
+                    }
+                },
+                {
+                    "id": "prod9",
+                    "name": "ModularWorkStation",
+                    "description": "A revolutionary modular workspace system that adapts to your changing needs. Includes configurable desk sections, integrated power management, and expandable storage modules.",
+                    "category": "Modular Furniture",
+                    "tags": ["modular", "workspace", "flexible design"],
+                    "price": 1299.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 15,
+                        "shipping_time": "7-10 business days"
+                    }
+                },
+                {
+                    "id": "prod10",
+                    "name": "BalanceChair",
+                    "description": "An innovative active sitting chair that promotes core strength and improves posture. Features a dynamic seat that encourages micro-movements and reduces sedentary strain.",
+                    "category": "Ergonomic Furniture",
+                    "tags": ["active sitting", "posture", "core strength"],
+                    "price": 349.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 40,
+                        "shipping_time": "3-5 business days"
+                    }
+                },
+                {
+                    "id": "prod11",
+                    "name": "HybridWorkPod",
+                    "description": "A compact, all-in-one workspace solution designed for home offices and small spaces. Includes integrated lighting, sound absorption, and privacy screens.",
+                    "category": "Workspace Solutions",
+                    "tags": ["home office", "compact workspace", "privacy"],
+                    "price": 1599.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 10,
+                        "shipping_time": "10-14 business days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Workspace Lighting",
+            "products": [
+                {
+                    "id": "prod3", 
+                    "name": "FocusLamp", 
+                    "description": "A daylight-spectrum lamp designed to reduce eye strain during long work sessions. Features adjustable brightness and color temperature to match your circadian rhythm.",
+                    "category": "Workspace Lighting",
+                    "tags": ["eye strain", "lighting", "productivity"],
+                    "price": 129.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 100,
+                        "shipping_time": "2-4 business days"
+                    }
+                },
+                {
+                    "id": "prod6",
+                    "name": "BlueLight Blocker Glasses",
+                    "description": "Advanced blue light filtering glasses that protect your eyes from digital screen emissions. Lightweight design with anti-reflective coating.",
+                    "category": "Eye Protection",
+                    "tags": ["blue light", "eye health", "glasses"],
+                    "price": 59.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 200,
+                        "shipping_time": "1-3 business days"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Productivity Accessories",
+            "products": [
+                {
+                    "id": "prod4",
+                    "name": "ErgoPro Keyboard",
+                    "description": "An ergonomic keyboard designed to reduce wrist strain and improve typing comfort. Features split design and customizable key layout.",
+                    "category": "Ergonomic Accessories",
+                    "tags": ["ergonomic", "keyboard", "wrist health"],
+                    "price": 199.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 75,
+                        "shipping_time": "3-5 business days"
+                    }
+                },
+                {
+                    "id": "prod7",
+                    "name": "Noise-Cancelling Headphones",
+                    "description": "Premium over-ear headphones with active noise cancellation, perfect for maintaining focus in noisy environments. Includes built-in microphone for calls.",
+                    "category": "Productivity Accessories",
+                    "tags": ["noise cancellation", "headphones", "focus"],
+                    "price": 249.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 50,
+                        "shipping_time": "3-5 business days"
+                    }
+                },
+                {
+                    "id": "prod8",
+                    "name": "Posture Corrector",
+                    "description": "Discreet wearable device that gently reminds you to maintain proper posture. Uses smart sensors to track and improve your sitting and standing posture.",
+                    "category": "Health Tech",
+                    "tags": ["posture", "health", "wearable tech"],
+                    "price": 89.99,
+                    "currency": "USD",
+                    "availability": {
+                        "in_stock": true,
+                        "quantity": 100,
+                        "shipping_time": "2-4 business days"
+                    }
+                }
+            ]
+        }
+    ]
+}
